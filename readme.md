@@ -7,4 +7,4 @@
 
 ##工作原理
 - 首先我们看看qq音乐专辑的url是什么.以周杰伦为例
-![](http://github.com/fantasysea/jaychou/raw/master/pics/albumurl.jpg)
+![image](http://github.com/fantasysea/jaychou/raw/master/pics/albumurl.png)
