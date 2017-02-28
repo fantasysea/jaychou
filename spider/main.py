@@ -154,7 +154,7 @@ def go(singer):
 if __name__ == '__main__':
     # singer={'name':'jaychou','singermid':'0025NhlN2yWrP4'}
     # singer = {'name': 'tfboys', 'singermid': '000zmpju02bEBm'}
-    singer = {'name': 'xugao', 'singermid': '000zmpju02bEBm'}
+    singer = {'name': 'xusong', 'singermid': '000zmpju02bEBm'}
     # singer = {'name': 'Eason', 'singermid': '003Nz2So3XXYek'}
     #获取所有歌词
     # getAlbums(singer)
