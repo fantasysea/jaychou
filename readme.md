@@ -6,7 +6,7 @@
 - 生成歌词云照片
 效果图
 ![image](https://github.com/fantasysea/jaychou/raw/master/pics/songfile.png)
-![image](https://github.com/fantasysea/jaychou/raw/master/pics/jaychou.png)
+![image](https://github.com/fantasysea/jaychou/raw/master/pics/jaychou.jpg)
 
 ##工作原理
 - 首先我们看看qq音乐专辑的url是什么.以周杰伦为例 `https://y.qq.com/n/yqq/singer/0025NhlN2yWrP4.html#tab=album&`
